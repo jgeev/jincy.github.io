@@ -1,0 +1,2 @@
+This is the test file for vi command test
+saving file as vi test.sh
